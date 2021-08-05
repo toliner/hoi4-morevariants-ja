@@ -4,5 +4,5 @@ tags={
 	"Military"
 	"Gameplay"
 }
-name="MoreVariants Improved"
+name="MoreVariants +JP +Rebalance"
 supported_version="1.10.*"
